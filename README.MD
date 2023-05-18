@@ -81,10 +81,8 @@ Quan definim una relació One2many s’ha de definir obligatòriament la relaci�
   
   
 2.6- Sobreescriviu el menú root per reaprofitar el menú d’Infomusic i afegiu les noves entrades per tour i tour_city.
-<menuitem name="Infomusic+ <NC>" id="infomusic.menu_root"/>  
-  
-''' On <NC> són les inicials del nostre nom i cognom. '''  
-  
+''' <menuitem name="Infomusic+ <NC>" id="infomusic.menu_root"/>  ''' 
+On <NC> són les inicials del nostre nom i cognom.
 Afegiu una nova entrada al menú vertical Tours i una nova acció Tours penjant d’aquest menu.
 No definirem cap action a la vista tour_city.xml perquè no apareixerà al menú.
 
