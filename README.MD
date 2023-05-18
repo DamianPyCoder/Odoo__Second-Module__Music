@@ -1,18 +1,20 @@
 # VERSION 1
 
 Crearem el mòdul infomusic que tindrà els següents models:
-	Singer
-Camp
-Label
-Tipus
-Atributs
-name
-Name
-Char
-Required
-birthday
-Date of birth
-Date
+
+Singer
+| CAMP | LABEL | TIPUS | ATRIBUT | 
+| ------------- | ------------- |
+| name  | Name  | Char | Required |
+| birthday  | Date of birth  | Date |
+
+
+	
+
+
+
+
+
 
 
 
