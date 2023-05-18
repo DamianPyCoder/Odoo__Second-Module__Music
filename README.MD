@@ -55,7 +55,8 @@ No definirem cap action a la vista song.xml perquè no apareixerà al menú.
 Per les imatges feu servir el widget image i ajusteu la mida a 150 x 150 pixels com a màxim. Mireu els paràmetres del camp Image.
   
   
-3- Afegirem els següents models per les gires del cantant.
+3- Afegirem els següents models per les gires del cantant.  
+  
 Tour
 | CAMP | LABEL | TIPUS | ATRIBUT |
 | ------------- | ------------- | ------------- | ------------- |
@@ -74,9 +75,8 @@ TourCity
 - Una gira té diferents ciutats
 Quan definim una relació One2many s’ha de definir obligatòriament la relació complementaria Many2one.
 
-![](https://github.com/DamianPyCoder/Odoo__Second-Module__Music/blob/main/screenshots_statement/grafico2.png)
-
-
+![](https://github.com/DamianPyCoder/Odoo__Second-Module__Music/blob/main/screenshots_statement/grafico2.png)  
+  
 5- Afegirem una nova vista tipus tree i formulari pels nous models. A les vistes formulari han d'aparèixer tots els camps del model inclosos els camps relacionals.
   
   
