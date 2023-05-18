@@ -9,44 +9,22 @@ Singer
 | birthday  | Date of birth  | Date |
 
 
-	
-
-
-
-
-
-
-
-
-
-	Disk
-Camp
-Label
-Tipus
-Atributs
-name
-Title
-Char
-Required
-publish_date
-Publishing date
-Date
-
-
+Disk	
+| CAMP | LABEL | TIPUS | ATRIBUT |
+| ------------- | ------------- | ------------- | ------------- |
+| name  | Title  | Char | Required |
+| publish_date  | Publishing date  | Date |
 
 
 Song
-Camp
-Label
-Tipus
-Atributs
-name
-Title
-Char
-Required
-order
-Order
-Integer
+| CAMP | LABEL | TIPUS | ATRIBUT |
+| ------------- | ------------- | ------------- | ------------- |
+| name  | Title  | Char | Required |
+| order  | Order  | Integer |
+
+
+
+
 
 
 duration
