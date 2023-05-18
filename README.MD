@@ -3,8 +3,8 @@
 Crearem el mòdul infomusic que tindrà els següents models:
 
 Singer
-| CAMP | LABEL | TIPUS | ATRIBUT | 
-| ------------- | ------------- |
+| CAMP | LABEL | TIPUS | ATRIBUT |
+| ------------- | ------------- | ------------- | ------------- |
 | name  | Name  | Char | Required |
 | birthday  | Date of birth  | Date |
 
