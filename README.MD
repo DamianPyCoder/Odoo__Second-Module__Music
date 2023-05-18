@@ -32,6 +32,8 @@ Song
 - Un cantant pot tenir diferents discs.
 Quan definim una relació One2many s’ha de definir obligatòriament la relació complementària Many2one. 
 
+![](https://github.com/DamianPyCoder/Odoo__Second-Module__Music/blob/main/screenshots_statement/grafico1.png)
+
 
 3- Crearem vistes tree i form pels models disc, singer i song. Feu servir el widget float_time per la duració de la cançó.
 A les vistes formulari han d'aparèixer tots els camps del model inclosos els camps relacionals.
